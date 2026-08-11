@@ -1,0 +1,20 @@
+﻿# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build files
+bin/
+obj/
+
+# Generated/runtime files
+Hashes/
+Logs/
+
+# Local configuration and secrets
+appsettings.json
+appsettings.Local.json
+.env
+
+# Publish files
+publish/
